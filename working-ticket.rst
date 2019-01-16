@@ -1,7 +1,7 @@
 Arbeiten mit Tickets
 ====================
 
-Tickets bestehen aus Artikeln. Fgolende Artikeltypen stehen zur Auswahl:
+Tickets bestehen aus Artikeln. Folgende Artikeltypen stehen zur Auswahl:
 
 * Notiz (intern/extern)
 * E-Mail (intern/extern)
